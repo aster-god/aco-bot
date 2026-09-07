@@ -6,7 +6,7 @@ Auto-checkout bot for Shopify and Walmart. Desktop app for Windows.
 
 ## Download & Install
 
-1. Go to [Releases](https://github.com/ogdoo22/aco-bot/releases)
+1. Go to [Releases](https://github.com/aster-god/aco-bot/releases)
 2. Download **ACO Bot Setup x.x.x.exe**
 3. Run the installer — choose your install location
 4. Launch **ACO Bot** from your Start Menu or Desktop
@@ -160,4 +160,4 @@ This software is provided for educational and research purposes. Using automated
 
 ## Support
 
-Having issues? [Open an issue](https://github.com/ogdoo22/aco-bot/issues) on GitHub.
+Having issues? [Open an issue](https://github.com/aster-god/aco-bot/issues) on GitHub.
